@@ -13,7 +13,10 @@ Describe the methods and variables in the Taxi V3 class.
 Describe the Taxi V3 environment, its actions, states, reward structure and the rationale behind such a reward structure. 
 
 ## 4
-Train an algorithm to achieve an average reward of 9.0 or higher on 100 consecutive episodes. 
+Train an algorithm to achieve a 100-episode average reward with a 5th percentile of 7.2 or higher and a 95th percentile of 8.2 or higher on the last 1000 episodes. 
 
 ## 5
+The algorithm should be able to perform pick-ups and dropoffs with zero penalties over 1000 episodes. 
+
+## 6
 Document your solution including all hyper parameters and how those hyperparameters were selected. 
