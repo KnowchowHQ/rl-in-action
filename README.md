@@ -16,8 +16,8 @@ environment that we call `Foolsball` and use it to train an RL agent to play the
     - [Slides](https://github.com/KnowchowHQ/rl-in-action/blob/master/C1-RL-Intro/W1S1/W1S1.ipynb)
     - [Solution Code](https://github.com/KnowchowHQ/rl-in-action/blob/solution/C1-RL-Intro/W1S1/car_track.ipynb)
     
-  - Session 2: Build a small game, `Foosball`, similar to Football and with [OpenAI Gym][3] like interface, 
-and interact with it to understnad the basic terminology of RL: `states`, `actions` and `rewards`.
+  - Session 2: Build a small game, `Foosball`, similar to Football and with an [OpenAI Gym][3] like interface, 
+and interact with it to understand the basic terminology of RL: `states`, `actions` and `rewards`.
     - [Starter Code](https://github.com/KnowchowHQ/rl-in-action/blob/master/C1-RL-Intro/W1S2/foolsball.ipynb)
     - [Slides](https://github.com/KnowchowHQ/rl-in-action/blob/solution/C1-RL-Intro/W1S2/W1S2.ipynb)
     - [Solution Code](https://github.com/KnowchowHQ/rl-in-action/blob/solution/C1-RL-Intro/W1S2/foolsball.ipynb)
